@@ -34,23 +34,23 @@
 ##
 
 **Databases:**
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
-[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/ildaneta/)](https://github.com/gabiqrm/)
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
 ##
 
 **Operational Systems:**
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
+
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
 ##
 
 **IDE:**
+
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
 ##
 
 **Versioning and Communication:**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
