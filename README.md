@@ -4,11 +4,11 @@
 
 ## About me
 
-👣 I'm 26 Hears Old.
-
-🌍 I live in Rio de Janeiro.
 
 👩‍💻 <strong>I'm a Fullstack Developer</strong> 
 
+👣 I'm 26 Hears Old.
+
+🌍 I live in Rio de Janeiro.
 
 ❤ I'm passionate about technology, front-end development, inovation and  possibilities. 🎯🚀
