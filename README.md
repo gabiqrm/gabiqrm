@@ -12,3 +12,6 @@
 🌍 I live in Rio de Janeiro.
 
 ❤ I'm passionate about technology, front-end development, inovation and  possibilities. 🎯🚀
+
+## Languages and Technologies I Use Daily:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ildaneta/)](https://github.com/gabiqrm/)
