@@ -5,7 +5,7 @@
 ## About me
 
 
-👩‍💻 <strong>I'm a Fullstack Developer</strong> 
+👩‍💻 <strong>I'm a Fullstack Developer.</strong> 
 
 👣 I'm 26 Hears Old.
 
