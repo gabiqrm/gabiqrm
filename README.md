@@ -13,7 +13,7 @@
 
 ❤ I'm passionate about technology, front-end development, inovation and  possibilities. 🎯🚀
 
-## Languages and Technologies I Use Daily:
+## Languages and Technologies I use daily:
 
 **Language:**
 
