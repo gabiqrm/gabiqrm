@@ -6,7 +6,7 @@
 
 👣 I'm 26 Hears Old.
 
-🇧🇷 I live in Rio de Janeiro.
+🌍 I live in Rio de Janeiro.
 
 👩‍💻 <strong>I'm a Fullstack Developer</strong> 
 
