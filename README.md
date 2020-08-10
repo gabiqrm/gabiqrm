@@ -7,7 +7,7 @@
 
 👩‍💻 <strong>I'm a Fullstack Developer.</strong> 
 
-👣 I'm 26 Hears Old.
+👣 I'm 26 Years Old.
 
 🌍 I live in Rio de Janeiro.
 
