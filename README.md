@@ -32,7 +32,7 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js%10-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 ##
 
 **Databases:**
