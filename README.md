@@ -56,5 +56,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
 
+**Status:**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabiqrm&theme=blue-green)](https://github.com/gabiqrm/github-readme-stats)
