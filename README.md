@@ -11,7 +11,7 @@
 
 🌍 I live in Rio de Janeiro.
 
-❤ I'm passionate about technology, front-end development, inovation and  possibilities. 🎯🚀
+❤ I'm passionate about technology, development, inovation and  possibilities. 🎯🚀
 
 ## Languages and Technologies I use daily:
 
