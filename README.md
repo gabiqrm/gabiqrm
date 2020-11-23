@@ -4,7 +4,7 @@
 
 ---
 ## 🖍 About me: 
-
+</div>
 
 👩‍💻 <strong>I'm a Fullstack Developer.</strong> 
 
@@ -15,15 +15,24 @@
 ❤ I'm passionate about technology, development, inovation and  possibilities. 🎯🚀
 
 ---
+<div align="center">
  
 ### 📧 Contact:
 
+</div>
+
+<div float="left">
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabrielaqrm/) 
+ </div>
+ <div float="right" margin-left="10px">
 [![Gmail Badge](https://img.shields.io/badge/-gabrielaqueirozrm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrielaqueirozrm@gmail.com)](mailto:gabrielaqueirozrm@gmail.com)
-
+<div>
+ 
 ---
+<div align="center">
+ 
 ## Languages and Technologies I use daily:
-
+</div>
 ---
 **Language:**
 
@@ -66,11 +75,13 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
 ---
+<div align="center">
+ 
 ## Status:
-
+</div>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabiqrm&theme=blue-green)](https://github.com/gabiqrm/github-readme-stats)
 
 ---
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiqrm&theme=blue-green)
 
-</div>
+
