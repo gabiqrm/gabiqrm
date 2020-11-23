@@ -17,11 +17,13 @@
  
 ### Contact:
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabrielaqrm/) [![Gmail Badge](https://img.shields.io/badge/-gabrielaqueirozrm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrielaqueirozrm@gmail.com)](mailto:gabrielaqueirozrm@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabrielaqrm/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielaqueirozrm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrielaqueirozrm@gmail.com)](mailto:gabrielaqueirozrm@gmail.com)
 
 ---
 ## Languages and Technologies I use daily:
 
+--
 **Language:**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) 
@@ -62,11 +64,10 @@
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
-##
-**Status:**
+---
+## Status:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabiqrm&theme=blue-green)](https://github.com/gabiqrm/github-readme-stats)
 
-##
-
+---
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiqrm&theme=blue-green)
