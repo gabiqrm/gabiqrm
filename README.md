@@ -1,10 +1,11 @@
 <div align="center">
  
 # Hi, I'm Gabriela Queiroz! ✨
+</div>
 
 ---
 ## 🖍 About me: 
-</div>
+
 
 👩‍💻 <strong>I'm a Fullstack Developer.</strong> 
 
@@ -15,11 +16,9 @@
 ❤ I'm passionate about technology, development, inovation and  possibilities. 🎯🚀
 
 ---
-<div align="center">
  
 ### 📧 Contact:
 
-</div>
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabrielaqrm/) 
  <br>
@@ -74,10 +73,8 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)
 
 ---
-<div align="center">
- 
 ## Status:
-</div>
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabiqrm&theme=blue-green)](https://github.com/gabiqrm/github-readme-stats)
 
