@@ -2,7 +2,7 @@
 # Hi, I'm Gabriela Queiroz! ✨
 
 ---
-## About me
+## About me: 🖍
 
 
 👩‍💻 <strong>I'm a Fullstack Developer.</strong> 
