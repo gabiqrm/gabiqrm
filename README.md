@@ -21,18 +21,17 @@
 
 </div>
 
-<div float="left">
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabrielaqrm/) 
- </div>
- <div float="right" margin-left="10px">
+ <br>
 [![Gmail Badge](https://img.shields.io/badge/-gabrielaqueirozrm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrielaqueirozrm@gmail.com)](mailto:gabrielaqueirozrm@gmail.com)
-<div>
+
  
 ---
 <div align="center">
  
 ## Languages and Technologies I use daily:
 </div>
+
 ---
 **Language:**
 
@@ -79,6 +78,7 @@
  
 ## Status:
 </div>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabiqrm&theme=blue-green)](https://github.com/gabiqrm/github-readme-stats)
 
 ---
