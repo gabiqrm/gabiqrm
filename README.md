@@ -20,9 +20,10 @@
 ### 📧 Contact:
 
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabrielaqrm/)  [![Gmail Badge](https://img.shields.io/badge/-gabrielaqueirozrm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrielaqueirozrm@gmail.com)](mailto:gabrielaqueirozrm@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabrielaqrm/)  
+<Br>
+[![Gmail Badge](https://img.shields.io/badge/-gabrielaqueirozrm@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:gabrielaqueirozrm@gmail.com)](mailto:gabrielaqueirozrm@gmail.com)
 
- 
 ---
 <div align="center">
  
@@ -40,7 +41,7 @@
 
 **Front-end:**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)   [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)  [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/gabiqrm/) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)   [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/)[![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/gabiqrm/) 
 
 ##
 
