@@ -31,8 +31,8 @@
 
 </div>
 
----
 <Br>
+
 **Language:**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) 
