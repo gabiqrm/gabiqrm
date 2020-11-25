@@ -28,10 +28,10 @@
 ---
 <div align="center">
  
-### Languages and Technologies I use daily:
+#### Languages and Technologies I use daily:
+
 </div>
 
----
 **Language:**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gabiqrm/)](https://github.com/gabiqrm/) 
