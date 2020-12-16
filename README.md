@@ -77,9 +77,9 @@
 ## Status:
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabiqrm&theme=dracula)](https://github.com/gabiqrm/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabiqrm&theme=react)](https://github.com/gabiqrm/github-readme-stats)
 
 ---
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiqrm&theme=dracula)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiqrm&theme=react)
 
 
