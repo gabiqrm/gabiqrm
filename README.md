@@ -82,4 +82,4 @@
 ---
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiqrm&theme=react)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiqrm&layout=compact&theme=react)](https://github.com/gabiqrm/github-readme-stats)
