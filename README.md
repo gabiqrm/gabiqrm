@@ -77,9 +77,9 @@
 ## Status:
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabiqrm&theme=blue-green)](https://github.com/gabiqrm/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gabiqrm&theme=blueberry)](https://github.com/gabiqrm/github-readme-stats)
 
 ---
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiqrm&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiqrm&theme=blueberry)
 
 
